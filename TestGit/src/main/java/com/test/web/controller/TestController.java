@@ -25,4 +25,7 @@ public class TestController {
 	public void test5(){
 		
 	}
+	public void test6(){
+		
+	}
 }
