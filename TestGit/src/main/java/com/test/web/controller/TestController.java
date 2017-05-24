@@ -10,5 +10,8 @@ public class TestController {
 	public String index() {
 		return "jsadf";
 	}
+	public void test1(){
+		
+	}
 	
 }
